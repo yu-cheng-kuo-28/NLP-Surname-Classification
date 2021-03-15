@@ -19,7 +19,7 @@ The reader may refer to PPT & PDF for complete content, and refer to the **same 
 (7) CNN \
 (8) RNN \
 (9) Conclusion \
-(10) Reference \
+(10) Reference 
 
 
 ## (1) Introduction
@@ -37,7 +37,7 @@ First, splitting the surname dataset into 70% training data, 15% validation data
 Next, we vectorize the surnames using one-hot encoding. We utilize two variants — “collapsed one-hot vector” and “one-hot matrix.” We use “collapsed one-hot vector” in MLP to save running time, and use “one-hot matrix” in CNN & RNN. In short, “collapsed one-hot vector” doesn’t retain the sequential information and only gives the Boolean values of a character appears or not , whereas “one-hot matrix” records the sequential information.
 
 ## (3) Neural Networks Tuning Tips
-Inspect ML17 for the NN tuning tips.
+Inspect ML17 for the NN tuning tips. \
 [ML17: Tuning Deep Networks |  Activators, optimizers, epochs, mini-batch size, BN, dropout and weight decay](https://medium.com/analytics-vidhya/ml17-a2f9315e5f1a)
 
 ## (4) Model Introduction & Baseline Model
