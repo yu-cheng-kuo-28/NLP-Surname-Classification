@@ -2,7 +2,7 @@
 
 **Keywords**: Natural Language Processing(NLP), text mining, classification, Multilayer Perceptron(MLP), Convolutional Neural Network(CNN), Recurrent Neural Network(RNN)
 
-The reader may refer to PPT & PDF for complete content, and refer to the **same code with results shown on Colab** in the following links:
+The reader may refer to PPT & PDF for complete content, and refer to the ***same code with results shown on Colab*** in the following links:
 1. Preprocessing: https://bit.ly/3hGWYhs
 2. MLP: https://bit.ly/3nTLxpf
 3. CNN: https://bit.ly/3rwRCKr
@@ -10,16 +10,15 @@ The reader may refer to PPT & PDF for complete content, and refer to the **same 
 
 
 ## Outline
-(2) Introduction \
-(3) Data Preprocessing \
-
-(4) Neural Networks Tuning Tips \
-(5) Model Introduction & Baseline Model \
-(6) MLP \
-(7) CNN \
-(8) RNN \
-(9) Conclusion \
-(10) Reference 
+(1) Introduction \
+(2) Data Preprocessing \
+(3) Neural Networks Tuning Tips \
+(4) Model Introduction & Baseline Model \
+(5) MLP \
+(6) CNN \
+(7) RNN \
+(8) Conclusion \
+(9) Reference 
 
 
 ## (1) Introduction
