@@ -70,9 +70,9 @@ We use the exactly the same models of MLP & CNN retrieved from the book as the b
 
 
 ## (8) Conclusion
-![conclusion_1](01_Surname.jpg) \
-![conclusion_2](02_Surname.jpg) \
-![conclusion_3](03_Surname.jpg) 
+![conclusion_1](1_Surname.jpg) \
+![conclusion_2](2_Surname.png) \
+![conclusion_3](3_Surname.jpg) 
 
 
 ## (9) Reference
