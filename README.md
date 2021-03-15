@@ -13,7 +13,7 @@
 
 
 ## Outline
-(1) Introduction \
+(1) Dataset \
 (2) Data Preprocessing \
 (3) Neural Networks Tuning Tips \
 (4) Model Introduction & Baseline Model \
@@ -24,7 +24,7 @@
 (9) Reference 
 
 
-## (1) Introduction
+## (1) Dataset
 
 >  The surname dataset, a collection of 10,000 surnames from 18 different nationalities collected by the authors from different name sources on the Internet. We split the data into 70% training data, 15% validation data, and 15% test data.
 
