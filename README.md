@@ -10,16 +10,16 @@ The reader may refer to PPT & PDF for complete content, and refer to the **same 
 
 
 ## Outline
-(2) *Introduction*
-(3) *Data Preprocessing*
+(2) Introduction \
+(3) Data Preprocessing \
 
-(4) *Neural Networks Tuning Tips*
-(5) *Model Introduction & Baseline Model*
-(6) *MLP*
-(7) *CNN*
-(8) *RNN*
-(9) *Conclusion*
-(10) *Reference*
+(4) Neural Networks Tuning Tips \
+(5) Model Introduction & Baseline Model \
+(6) MLP \
+(7) CNN \
+(8) RNN \
+(9) Conclusion \
+(10) Reference \
 
 
 ## (1) Introduction
