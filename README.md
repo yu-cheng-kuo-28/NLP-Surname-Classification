@@ -22,11 +22,9 @@ The reader may refer to PPT & PDF for complete content, and refer to the ***same
 
 
 ## (1) Introduction
-Figure 1: Rao, D. & McMahan, B. (2019). Natural Language Processing with PyTroch. California, CA: O’Reilly Media.
 
 The code mainly comes from the book Rao, D. & McMahan, B. (2019). Natural Language Processing with PyTroch. California, CA: O'Reilly Media. Based on that, I tuned the model and visualize the outcomes. This article was actually my final project of the course PyTorch and Machine Learning in NCCU.
 
-1. Data Introduction
 The surname dataset, a collection of 10,000 surnames from 18 different nationalities collected by the authors from different name sources on the Internet. We split the data into 70% training data, 15% validation data, and 15% test data.
 
 
@@ -35,9 +33,11 @@ The surname dataset, a collection of 10,000 surnames from 18 different nationali
 First, splitting the surname dataset into 70% training data, 15% validation data and 15% test data.
 Next, we vectorize the surnames using one-hot encoding. We utilize two variants — “collapsed one-hot vector” and “one-hot matrix.” We use “collapsed one-hot vector” in MLP to save running time, and use “one-hot matrix” in CNN & RNN. In short, “collapsed one-hot vector” doesn’t retain the sequential information and only gives the Boolean values of a character appears or not , whereas “one-hot matrix” records the sequential information.
 
+
 ## (3) Neural Networks Tuning Tips
 Inspect ML17 for the NN tuning tips. \
 [ML17: Tuning Deep Networks |  Activators, optimizers, epochs, mini-batch size, BN, dropout and weight decay](https://medium.com/analytics-vidhya/ml17-a2f9315e5f1a)
+
 
 ## (4) Model Introduction & Baseline Model
 
@@ -50,15 +50,18 @@ Inspect ML17 for the NN tuning tips. \
 ### 4-2 Baseline Model
 We use the exactly the same models of MLP & CNN retrieved from the book as the baseline models of MLP & CNN respectively. As for RNN, we do the same thing but slight adjust the drop probability from 50% to 0% since 0% yield better performance.
 
+
 ## (5) MLP
 ### 5-1 Baseline MLP Model
 ### 5-2 Best MLP Model
 ### 5-3 MLP Summary
 
+
 ## (6) CNN
 ### 6-1 Baseline CNN Model
 ### 6-2 Best CNN Model
 ### 6-3 CNN Summary
+
 
 ## (7) RNN
 ### 6-1 Baseline RNN Model
@@ -68,9 +71,7 @@ We use the exactly the same models of MLP & CNN retrieved from the book as the b
 
 ## (8) Conclusion
 
-
 Figure 22 & 23: “MLP vs. CNN” & “CNN vs. RNN.”
-
 
 Figure 24 & 25: “Ensemble Learning” & “Prospect.”
 
