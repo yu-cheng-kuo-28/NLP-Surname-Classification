@@ -30,7 +30,7 @@ The code mainly comes from the book **Rao, D. & McMahan, B. (2019). Natural Lang
 
 ## (2) Data Preprocessing
 
-- First, splitting the surname dataset into 70% training data, 15% validation data and 15% test data. \
+- First, we split the surname dataset into 70% training data, 15% validation data and 15% test data. \
 - Next, we vectorize the surnames using one-hot encoding. We utilize two variants — “collapsed one-hot vector” and “one-hot matrix.” We use “collapsed one-hot vector” in MLP to save running time, and use “one-hot matrix” in CNN & RNN. \
 - In short, “collapsed one-hot vector” doesn’t retain the sequential information and only gives the Boolean values of a character appears or not , whereas “one-hot matrix” records the sequential information.
 
