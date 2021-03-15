@@ -71,9 +71,7 @@ We use the exactly the same models of MLP & CNN retrieved from the book as the b
 
 ## (8) Conclusion
 
-Figure 22 & 23: “MLP vs. CNN” & “CNN vs. RNN.”
 
-Figure 24 & 25: “Ensemble Learning” & “Prospect.”
 
 
 ## (9) Reference
