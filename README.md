@@ -42,10 +42,10 @@ Inspect ML17 for the NN tuning tips. \
 ## (4) Model Introduction & Baseline Model
 
 ### 4-1 Model Introduction
-• Neuron: A minimum unit of neural network.
-• Perceptron: A single-layer neural network.
-• FNN(feedforward neural network): MLP(multilayer perceptron, also called “fully-connected” network), CNN(convolutional neural network).
-• RNN(recurrent neural network): RNN, LSTM(long short-term memory), GRU(gated recurrent unit).
+• Neuron: A minimum unit of neural network. \
+• Perceptron: A single-layer neural network. \
+• FNN(feedforward neural network): MLP(multilayer perceptron, also called “fully-connected” network), CNN(convolutional neural network). \
+• RNN(recurrent neural network): RNN, LSTM(long short-term memory), GRU(gated recurrent unit). 
 
 ### 4-2 Baseline Model
 We use the exactly the same models of MLP & CNN retrieved from the book as the baseline models of MLP & CNN respectively. As for RNN, we do the same thing but slight adjust the drop probability from 50% to 0% since 0% yield better performance.
