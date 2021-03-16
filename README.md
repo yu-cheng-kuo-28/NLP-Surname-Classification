@@ -1,6 +1,6 @@
 # NLP-Surname-Classification
 
-***A mini project implementing MLP, CNN, RNN with PyTorch ***
+***A mini project implementing MLP, CNN, RNN with PyTorch***
 
 **Keywords**: Natural Language Processing(NLP), text mining, classification, Multilayer Perceptron(MLP), Convolutional Neural Network(CNN), Recurrent Neural Network(RNN)
 
