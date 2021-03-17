@@ -2,7 +2,7 @@
 
 ***A mini project implementing MLP, CNN, RNN with PyTorch***
 
-**Keywords**: Natural Language Processing(NLP), text mining, classification, Multilayer Perceptron(MLP), Convolutional Neural Network(CNN), Recurrent Neural Network(RNN)
+&nbsp; **Keywords**: Natural Language Processing(NLP), text mining, classification, Multilayer Perceptron(MLP), Convolutional Neural Network(CNN), Recurrent Neural Network(RNN)
 
 - The code mainly comes from the book **Rao, D. & McMahan, B. (2019). Natural Language Processing with PyTroch. California, CA: O'Reilly Media**. Based on that, I ***tuned the model and visualize the outcomes***. 
 - This was actually my final project of the *graduate level* course ***"PyTorch and Machine Learning"*** of *department of MIS* in NCCU. In addition, I got ***89 (A)*** in this course.
