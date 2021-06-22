@@ -23,7 +23,7 @@
 (6) CNN \
 (7) RNN \
 (8) Conclusion \
-(9) Reference 
+(9) References
 
 
 ## (1) Dataset
@@ -79,7 +79,7 @@ We utilize the exactly the same models of MLP & CNN retrieved from the book as t
 ![conclusion_3](3_Surname.png) 
 
 
-## (9) Reference
+## (9) References
 1. Géron, A. (2019). Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). California, CA: O’Reilly Media.
 2. Rao, D. & McMahan, B. (2019). Natural Language Processing with PyTroch. California, CA: O’Reilly Media.
 3. Sarkar, D. (2019). Text Analytics with Python (2nd ed.). Karnataka, India: Apress.
