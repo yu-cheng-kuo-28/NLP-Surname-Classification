@@ -75,15 +75,15 @@ We utilize the exactly the same models of MLP & CNN retrieved from the book as t
 
 ## (8) Conclusion
 <div class="flexible-container">
-  <img src="pictures/1_Surname.png" height="500">
+  <img src="pictures/1_Surname.png" height="400">
 </div>
 
 <div class="flexible-container">
-  <img src="pictures/2_Surname.png" height="500">
+  <img src="pictures/2_Surname.png" height="400">
 </div>
 
 <div class="flexible-container">
-  <img src="pictures/3_Surname.png" height="500">
+  <img src="pictures/3_Surname.png" height="400">
 </div>
 
 ## (9) References
