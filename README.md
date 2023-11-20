@@ -74,10 +74,17 @@ We utilize the exactly the same models of MLP & CNN retrieved from the book as t
 
 
 ## (8) Conclusion
-![conclusion_1](1_Surname.png) \
-![conclusion_2](2_Surname.png) \
-![conclusion_3](3_Surname.png) 
+<div class="flexible-container">
+  <img src="pictures/1_Surname.png" height="500">
+</div>
 
+<div class="flexible-container">
+  <img src="pictures/2_Surname.png" height="500">
+</div>
+
+<div class="flexible-container">
+  <img src="pictures/3_Surname.png" height="500">
+</div>
 
 ## (9) References
 1. Géron, A. (2019). Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). California, CA: O’Reilly Media.
